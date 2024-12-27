@@ -1,6 +1,7 @@
 # Music_Store_Data_Analysis_Using_SQL
 
-Project Overview:
+##Project Overview:
+
 The "Music Store Data Analysis" project focuses on utilizing SQL to answer business-related queries by analyzing a music store's dataset. The dataset comprises multiple relational tables capturing various aspects of the music store's business operations, such as albums, artists, customers, invoices, tracks, playlists, and more.
 
 The project is divided into three levels of difficulty, with each set of questions focusing on different business metrics and operations:
